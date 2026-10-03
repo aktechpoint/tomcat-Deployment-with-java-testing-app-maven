@@ -468,9 +468,9 @@
 <body>
     <header id="header">
         <nav class="container">
-            <a href="#home" class="logo">Abhishek Kumar</a>
+            <a href="#home" class="logo">Abhishek Kumar Singh</a>
             <ul class="nav-links" id="navLinks">
-                <li><a href="#home">Home</a></li>
+                <li><a href="#home">Home1</a></li>
                 <li><a href="#about">About</a></li>
                 <li class="dropdown" id="skillsDropdown">
                     <a href="#skills" class="dropdown-toggle">
