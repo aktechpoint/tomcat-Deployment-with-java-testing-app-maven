@@ -470,15 +470,15 @@
         <nav class="container">
             <a href="#home" class="logo">Abhishek Kumar Singh</a>
             <ul class="nav-links" id="navLinks">
-                <li><a href="#home">Home1</a></li>
-                <li><a href="#about">About</a></li>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About1</a></li>
                 <li class="dropdown" id="skillsDropdown">
                     <a href="#skills" class="dropdown-toggle">
                         Skills <span class="dropdown-arrow">▼</span>
                     </a>
                     <div class="dropdown-content">
                         <a href="#skills" class="dropdown-item dropdown-category">💻 Backend Development</a>
-                        <a href="#skills" class="dropdown-item dropdown-sub-item">Java (Spring Boot)</a>
+                        <a href="#skills" class="dropdown-item dropdown-sub-item">Java (Spring Boot Spring Framework)</a>
                         <a href="#skills" class="dropdown-item dropdown-sub-item">Python (Django, Flask)</a>
                         <a href="#skills" class="dropdown-item dropdown-sub-item">.NET Core</a>
                         <a href="#skills" class="dropdown-item dropdown-sub-item">Go (Golang)</a>
