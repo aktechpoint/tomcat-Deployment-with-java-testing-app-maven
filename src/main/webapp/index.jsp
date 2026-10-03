@@ -524,9 +524,9 @@
 
     <section id="home" class="hero">
         <div class="hero-content">
-            <h1>Abhishek Kumar</h1>
+            <h1>Abhishek Kumar singh</h1>
             <p class="subtitle">Full Stack Developer | Cloud Architect | Data Scientist | DevOps Engineer | Cybersecurity Specialist</p>
-            <a href="#about" class="cta-button">Explore My Work</a>
+            <a href="#about" class="cta-button">Explore My Work Add on github=  aktechpoint</a>
         </div>
     </section>
 
