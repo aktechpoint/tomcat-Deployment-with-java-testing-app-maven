@@ -468,7 +468,7 @@
 <body>
     <header id="header">
         <nav class="container">
-            <a href="#home" class="logo">Abhishek Kumar Singh</a>
+            <a href="#home" class="logo">Abhishek Kumar</a>
             <ul class="nav-links" id="navLinks">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About1</a></li>
